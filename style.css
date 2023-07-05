@@ -1,0 +1,85 @@
+.name{
+    width: 100%;
+    height: 12vh;
+    background-color: rgb(3, 124, 114);
+    color: aliceblue;
+    font-size: 4.5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: cursive;
+}
+.navbar2{
+    height: 5vh;
+    background-color:rgb(6, 55, 6);
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+
+    /* flex-wrap: wrap; */
+
+
+}
+.atag{
+    text-decoration: none;
+    color: white;
+}
+
+.notes{height: 1000px;
+    /* background-color: rgb(85, 61, 61); */
+    background-image: url(backg2.jpg);
+    background-size:contain;
+
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.box{
+    margin-top:60px;
+    background-color: azure;
+    width: 30vw;
+    height:40vw;
+    align-items: center;
+
+}
+
+img{
+    width: 30vw;
+    height:40vw;
+}
+
+.footer1{
+    height: 60px;
+    background-color: teal;
+}
+
+.footer1{
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+}
+.a1{
+    text-decoration: none;
+    color: white;
+}
+
+/* .chapter{
+    margin-top: 70px;
+} */
+
+/* .chemistry{
+
+     background-image: url(chemistryimg2.jfif);
+    background-size:cover;
+}
+
+.physics{
+    background-image: url(physicsimg.jfif);
+    background-size:cover;
+}
+
+.biology{
+    
+    background-image: url(biologyimg.jfif);
+    background-size:cover;
+} */
